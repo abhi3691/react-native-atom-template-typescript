@@ -1,7 +1,7 @@
 
 
 
-# react-native-atom-template
+# react-native-atom-template-typescript
 
 A starter kit for initializing a new React-Native project with some commonly used preconfigured libraries and the folder structure.
 
@@ -33,7 +33,7 @@ npm uninstall -g react-native-cli
 
 ## Quick start
 
-Generate a new React Native(**v0.70.1**) app using the **react-native-atom-template**:
+Generate a new React Native(**v0.70.1**) app using the **react-native-atom-template-typescript**:
 
 ```shell
 npx react-native init MyApp --template react-native-atom-template-typescript --skip-install
@@ -45,7 +45,7 @@ The template will automatically install the `npm` dependencies and the `pods` (i
 
 ## Digging Deeper
 
-Check out the [documentation website](https://github.com/abhi3691/react-native-atom-template/) to learn more about the template.
+Check out the [documentation website](https://github.com/abhi3691/react-native-atom-template-typescript/) to learn more about the template.
 
 
 
