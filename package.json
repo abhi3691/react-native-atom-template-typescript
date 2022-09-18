@@ -1,0 +1,29 @@
+{
+  "name": "react-native-atom-template-typescript",
+  "version": "0.0.1",
+  "description": "Clean and minimalist React Native atom template for a quick start with TypeScript.",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhi3691/react-native-atom-template-typescript.git"
+  },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "author": "Abhinand vk <abhinandvk41@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abhi3691/react-native-atom-template-typescript/issues"
+  },
+  "homepage": "https://github.com/abhi3691/react-native-atom-template-typescript#readme"
+}
