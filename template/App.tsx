@@ -23,6 +23,8 @@ const styles = StyleSheet.create({
   },
   textStyle: {
     fontSize: FontRatio(20),
-    color: customColor.black
+    color: customColor.black,
+    fontWeight: 'bold',
+    textAlign: 'center'
   }
 })
