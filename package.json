@@ -1,5 +1,5 @@
 {
-  "name": "react-native-atom-template-ts",
+  "name": "react-native-atom-template-typescript",
   "version": "0.0.2",
   "description": "Clean and minimalist React Native atom template for a quick start with TypeScript.",
   "scripts": {
