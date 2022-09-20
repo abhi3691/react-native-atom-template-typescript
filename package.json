@@ -10,8 +10,7 @@
     "template.config.js"
   ],
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/abhi3691/react-native-atom-template-typescript.git"
+    "url": "https://github.com/abhi3691/react-native-atom-template-typescript.git"
   },
   "keywords": [
     "react-native",
