@@ -8,7 +8,7 @@ import ReactIcon from './src/assets/svg_icons/react.svg'
 const App = () => {
   return (
     <View style={styles.container}>
-      <Text style={styles.textStyle}>WELCOME TO REACT NATIVE ATOM </Text>
+      <Text style={styles.textStyle}>WELCOME TO REACT NATIVE ATOM TypeScript </Text>
       <ReactIcon height={FontRatio(100)} width={FontRatio(100)} />
     </View>
   );
@@ -24,7 +24,8 @@ const styles = StyleSheet.create({
   textStyle: {
     fontSize: FontRatio(20),
     color: customColor.black,
-    fontFamily:Fonts.POPPINSBLACK
+    fontFamily:Fonts.POPPINSBLACK,
+    textAlign:'center'
   },
 });
 
