@@ -1,6 +1,6 @@
 {
   "name": "react-native-atom-template-typescript",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Clean and minimalist React Native atom template for a quick start with TypeScript.",
   "scripts": {
     "test": "exit 0"
